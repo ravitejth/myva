@@ -409,21 +409,21 @@ select {
   height: 780px;
 }
 .bg-slider-wrapper .flexslider .slide.slide-1 {
-  background: #253340 url('../images/background/bg-header-1.jpg') no-repeat 50% top;
+  background: #253340 url('../images/bg-header-1.jpg') no-repeat 50% top;
   -webkit-background-size: cover;
   -moz-background-size: cover;
   -o-background-size: cover;
   background-size: cover;
 }
 .bg-slider-wrapper .flexslider .slide.slide-2 {
-  background: #253340 url('../images/background/bg-header-2.jpg') no-repeat 50% top;
+  background: #253340 url('../images/bg-header-2.jpg') no-repeat 50% top;
   -webkit-background-size: cover;
   -moz-background-size: cover;
   -o-background-size: cover;
   background-size: cover;
 }
 .bg-slider-wrapper .flexslider .slide.slide-3 {
-  background: #253340 url('../images/background/bg-header-3.jpg') no-repeat 50% top;
+  background: #253340 url('../images/bg-header-3.jpg') no-repeat 50% top;
   -webkit-background-size: cover;
   -moz-background-size: cover;
   -o-background-size: cover;
@@ -446,20 +446,20 @@ select {
   top: 0;
   left: 0;
   height: 500px;
-  background: #253340 url('../images/background/bg-header-small-1.jpg') no-repeat 50% top;
+  background: #253340 url('../images/bg-header-small-1.jpg') no-repeat 50% top;
   -webkit-background-size: cover;
   -moz-background-size: cover;
   -o-background-size: cover;
   background-size: cover;
 }
 .headline-bg.pricing-headline-bg {
-  background-image: url('../images/background/bg-header-small-2.jpg');
+  background-image: url('../images/bg-header-small-2.jpg');
 }
 .headline-bg.contact-headline-bg {
-  background-image: url('../images/background/bg-header-small-3.jpg');
+  background-image: url('../images/bg-header-small-3.jpg');
 }
 .headline-bg.about-headline-bg {
-  background-image: url('../images/background/bg-header-small-4.jpg');
+  background-image: url('../images/bg-header-small-4.jpg');
 }
 /* ======= Promo ======= */
 .promo {
@@ -788,7 +788,7 @@ select {
 }
 /* ======= cta-section ======= */
 .cta-section {
-  background: #253340 url('../images/background/bg-footer-1.jpg') no-repeat left top;
+  background: #253340 url('../images/bg-footer-1.jpg') no-repeat left top;
   background-size: cover;
   min-height: 420px;
   color: #fff;
@@ -796,10 +796,10 @@ select {
   border: none;
 }
 .cta-section.pricing-cta-section {
-  background-image: url('../images/background/bg-footer-2.jpg');
+  background-image: url('../images/bg-footer-2.jpg');
 }
 .cta-section.contact-cta-section {
-  background-image: url('../images/background/bg-footer-3.jpg');
+  background-image: url('../images/bg-footer-3.jpg');
 }
 .cta-section .title {
   font-size: 36px;
@@ -1257,7 +1257,7 @@ select {
 /* ======= Download Apps ======= */
 .download-page .headline-bg {
   height: 1200px;
-  background: #253340 url('../images/background/bg-mobile-headline.jpg') no-repeat 50% top;
+  background: #253340 url('../images/bg-mobile-headline.jpg') no-repeat 50% top;
   -webkit-background-size: cover;
   -moz-background-size: cover;
   -o-background-size: cover;
@@ -2250,14 +2250,14 @@ select {
 }
 /* ======= Login Page ======= */
 .has-full-screen-bg .upper-wrapper {
-  background: #253340 url('../images/background/bg-screen-1.jpg') no-repeat 50% top;
+  background: #253340 url('../images/bg-screen-1.jpg') no-repeat 50% top;
   -webkit-background-size: cover;
   -moz-background-size: cover;
   -o-background-size: cover;
   background-size: cover;
 }
 .has-full-screen-bg.signup-page .upper-wrapper {
-  background: #253340 url('../images/background/bg-screen-2.jpg') no-repeat 50% top;
+  background: #253340 url('../images/bg-screen-2.jpg') no-repeat 50% top;
   -webkit-background-size: cover;
   -moz-background-size: cover;
   -o-background-size: cover;
